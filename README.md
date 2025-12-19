@@ -4,4 +4,4 @@
 chrome 확장프로그램인 "site_blocker"의 코드 입니다.
 <br/>
 
-[확장프로그램링크] (https://chromewebstore.google.com/detail/siteblocker/fklinbfembfipfmmmidpjgloibbkldkj?pli=1)
+[확장프로그램 링크](https://chromewebstore.google.com/detail/siteblocker/fklinbfembfipfmmmidpjgloibbkldkj?pli=1)
