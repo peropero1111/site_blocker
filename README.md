@@ -14,5 +14,4 @@ chrome 확장프로그램인 "site_blocker"의 코드 입니다.
 개인정보는 어떠한 경우에도 위에서 제시한 목적 외의 용도로는 사용되지 아니합니다.
 문의/1000jun1203@proton.me
 <br/>
-
 [확장프로그램 링크](https://chromewebstore.google.com/detail/siteblocker/fklinbfembfipfmmmidpjgloibbkldkj?pli=1)
